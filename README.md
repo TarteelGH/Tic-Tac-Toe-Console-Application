@@ -26,7 +26,6 @@ If you don't have Dart installed, download it from the official site:
 ### 2. Clone the Repository on VS code
 ```bash
 git clone https://github.com/TarteelGH/Tic-Tac-Toe-Console-Application.git
-cd tic_tac_toe_dart
 ```
 ### 3.Run the game
 Use the following command in your terminal:
